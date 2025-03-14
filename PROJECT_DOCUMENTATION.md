@@ -23,8 +23,35 @@ The software platform that i’ll be using will be AdobeXD as this  is one the e
 _________________________________________________________________________
 ### **6. Initial Brainstorming**
 
+![image](images/Blank%20diagram.png "Three Tier Mindmap")
+
 The key themes that this project will be surrounded on will be based on efficiently displaying information, with design elements that simplify navigation and makes it look pretty. The design of this should make the website look visually appealing, and make it easy to navigate and process for the human eye and brain.
 
 ---
 ---
 ## <ins>**Requirements Specification**<ins>
+### **Functional Requirements**
+#### **Purpose of the Applicaiton**
+The website will aim to provide useful information on the backgrounds of individuals and locations in the found throughtout the book, helping returning enthusiasts or new people of the series to gain a deeper understandig on the book and lore. The app is designed to engage fans that are reading the book or new fans that are interested in this genre
+
+#### **Use Cases**
+**1.** Users can select a location to learn the story\
+**2.** Users can select a character to learn their backstory\
+**3.** Users can select an event to learn of the causes and outcomes\
+**4.** Users can select the map to gain a better picture of the land
+
+**a)** Location will be in the starting menu and then they can chose the specific location they want to look into\
+**b)** Characters will also be on the starting menu and then the user choses which character they would like to learn about in that section\
+**c)** Events will be another tab on the main menu with individual events in it's own section when you press this button\
+**d)** Map will be the final button on the main menu and when pressed will come up with map of the world
+
+#### **Test Cases**
+**1.** User will click on the locations tab. Webstie will move onto that tab and then display a list of locations. User will click on one of these prompting for the website to switch to that page, showing a detailed description on that lovation.\
+**2.** User will click on the characters tab. Website will move onto that tab and then display a list of characters with names. User will click on one of these prompting for the website to switch to that page, showing a detailed description on that character.\
+**3.** User will click on the events tab. Website will move onto that tab and then display a list of events. User will click on one of these prompting for the website to switch to that page, showing a detailed description on that event.\
+**4.** User will cllick on the map tab. Website will move onto that tab and then display a map for the user to look at.
+
+---
+### **Non-Functional Requirements**
+#### **Performance**
+The ideal outcome of performance for the website will be that it has barely any to none input delay and loading times unless it's a page with a heavy amount of images. For example 
