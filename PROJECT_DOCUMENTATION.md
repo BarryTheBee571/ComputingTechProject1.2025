@@ -31,10 +31,11 @@ The key themes that this project will be surrounded on will be based on efficien
 ---
 ## <ins>**Requirements Specification**<ins>
 ### **Functional Requirements**
-#### **Purpose of the Applicaiton**
+- #### **Purpose of the Applicaiton**
 The website will aim to provide useful information on the backgrounds of individuals and locations in the found throughtout the book, helping returning enthusiasts or new people of the series to gain a deeper understandig on the book and lore. The app is designed to engage fans that are reading the book or new fans that are interested in this genre
 
-#### **Use Cases**
+
+- #### **Use Cases**
 **1.** Users can select a location to learn the story\
 **2.** Users can select a character to learn their backstory\
 **3.** Users can select an event to learn of the causes and outcomes\
@@ -45,7 +46,7 @@ The website will aim to provide useful information on the backgrounds of individ
 **c)** Events will be another tab on the main menu with individual events in it's own section when you press this button\
 **d)** Map will be the final button on the main menu and when pressed will come up with map of the world
 
-#### **Test Cases**
+- #### **Test Cases**
 **1.** User will click on the locations tab. Webstie will move onto that tab and then display a list of locations. User will click on one of these prompting for the website to switch to that page, showing a detailed description on that lovation.\
 **2.** User will click on the characters tab. Website will move onto that tab and then display a list of characters with names. User will click on one of these prompting for the website to switch to that page, showing a detailed description on that character.\
 **3.** User will click on the events tab. Website will move onto that tab and then display a list of events. User will click on one of these prompting for the website to switch to that page, showing a detailed description on that event.\
@@ -53,5 +54,63 @@ The website will aim to provide useful information on the backgrounds of individ
 
 ---
 ### **Non-Functional Requirements**
-#### **Performance**
-The ideal outcome of performance for the website will be that it has barely any to none input delay and loading times unless it's a page with a heavy amount of images. For example 
+- #### **Performance**
+The ideal outcome of performance for the website will be that it has barely any to none input delay and loading times unless it's a page with a heavy amount of images. For example if you're going from the main page to a character description page it might take a bit to load if it is heavy on images
+- #### **Usability**
+The app will have a clean and easy to navigate design, peeling away from the typical wiki designs that you find online that have ugly boxes everywhere. The themes will be white/black with accents of red making it look more visaully appealling.
+- #### **Reliability**
+The app will be tested rigorously with me testing each section multiple times to see that it will function correctly and Figma should work across different screen sizes.
+- #### **Security**
+The app will not collect any user data so there will be no risk in security breaches and leaking private user information.
+
+---
+---
+## <ins>**Social, Ethical and Legal Issues**<ins>
+### **Social Impact**
+- #### **Target Audience Considerations**
+
+- #### **Potential Benefits**
+
+- #### **Potential Benefits**
+
+---
+### **Ethical Responsibilities**
+- #### **User Data & Privacy**
+
+- #### **Representation & Inclusion**
+
+- #### **Content Sensitivity**
+
+---
+### **Legal Considerations**
+- #### **Copyright & Intellectual Property**
+
+- #### **Terms of Use**
+
+---
+---
+## <ins>**Researching and Planning**
+### **Gantt Chart**
+![image](images/........ "Gantt Chart") 
+
+---
+### **Researching Existing UIs**
+
+---
+### **Research Software Options**
+
+---
+### **Wireframes**
+
+---
+## <ins>**Testing and Evaluating**
+### **User Testing & Feedback**
+
+---
+### **Ongoing Evaluations**
+
+---
+### **Final Evaluation**
+
+---
+---
