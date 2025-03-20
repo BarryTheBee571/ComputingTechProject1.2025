@@ -68,24 +68,32 @@ The app will not collect any user data so there will be no risk in security brea
 ## <ins>**Social, Ethical and Legal Issues**<ins>
 ### **Social Impact**
 - #### **Target Audience Considerations**
+The target audience for this porject will be new people to the book or returning enthusiasts of the previous series "The Inheritance Cycle", this experience will not cater people with  disabilities such as blindness, and should be accesible to most people. It will not be in other languages, only english, I mean if you're reading a book written in english you shouldn't have a problem with this site.
 
 - #### **Potential Benefits**
+This will positively impact users by encouraging them to read more and will also provide a talking topic when communicating to someone else that has read the book. This will make the book more enjoyable by providing you with more information so that you can understand the situation, characters and plot better.
 
 - #### **Potential Benefits**
+The design shouldn't be excluding or misrepresenting certain groups, and there shouldn't be any themes in the site or book that are sensitive and upsetting to users. Since this is a fantasy world and written like Lord of the Rings which had massive success, the themes shouldn't be offending anyone.
 
 ---
 ### **Ethical Responsibilities**
 - #### **User Data & Privacy**
+The prototype will not collect user data so there will be nothing to leak in case of a data breach.
 
 - #### **Representation & Inclusion**
+The project does fairly represent characters, themes and ideas from the book as all the characters are somewhat likeable except the villains but i will treat them fairly.
 
 - #### **Content Sensitivity**
+The book does have some violence in it, in the form of battles and fights, but not over the top, and the prototype for this site will try to avoid expressing these topics of violence.
 
 ---
 ### **Legal Considerations**
 - #### **Copyright & Intellectual Property**
+There will be one image taken from the book of the map and layout of the land. The text on the character, locations and events, I will try to write myself 
 
 - #### **Terms of Use**
+
 
 ---
 ---
