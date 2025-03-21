@@ -90,19 +90,20 @@ The book does have some violence in it, in the form of battles and fights, but n
 ---
 ### **Legal Considerations**
 - #### **Copyright & Intellectual Property**
-There will be one image taken from the book of the map and layout of the land. The text on the character, locations and events, I will try to write myself 
+There will be one image taken from the book of the map and layout of the land. The text on the character, locations and events, I will try to write as much of it as i can myself, if i do have to take some parts form another wiki, I will create a reference list with sources.
 
 - #### **Terms of Use**
-
+The terms of use of this project will make it so that it won't just be copying the whole book, the summaries will be mostly created by myself and as this website won't be collecting any user data they wouldn't need to agree to any terms and conditions or cookies as there is no advertising either. It will also clearly state that this is a fan project and not the actual author of the book
 
 ---
 ---
 ## <ins>**Researching and Planning**
 ### **Gantt Chart**
-![image](images/........ "Gantt Chart") 
+![image](images/Gantt%20chart%20(1).png "Gantt Chart") 
 
 ---
 ### **Researching Existing UIs**
+
 
 ---
 ### **Research Software Options**
