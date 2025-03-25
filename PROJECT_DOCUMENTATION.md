@@ -103,10 +103,15 @@ The terms of use of this project will make it so that it won't just be copying t
 
 ---
 ### **Researching Existing UIs**
-
+| UI Name | Plus | Minus | Implication |
+| :---- | :---- | :---- | :---- |
+| Wikipedia | The wikipedia ui is simple to use and navigate, built for housing large pages of information, sources and images. This makes it a very efficient in displaying information when being used for researching | The UI for this website is not that all visually appealing  with it just being bland and colourless | Will integrate the design and the features of it having the blue text which brings you into a more detailed page on the highlighted section. This would work well as it supports the large sections of text better and enhances the user understanding experience |
+| f1.com | This website has a great design overall with a red and white theme, it displays information incredibly well with each article having a picture that will somewhat describe what is happening. The articles are well formatted with text and then many images throughout. | Very very heavy on images and doesn’t display large amounts of text and information as well as wikipedia which it is made for. | I will be integrating the design and the layout as well as its great support of images. This website makes me more conscious of the number of images as if there are too many it won’t look as good. |
+| Gitbook | This website’s design is very easy to navigate and has a sort of timeline feature as in it gives you an order in which sections you are supposed to do after another.  | It is like wikipedia where it is not very colourful but the overall design and placement aren’t as bad.  | This UI is great for putting sections in the right order which will be great for parts of my such as the events tab  |
 
 ---
 ### **Research Software Options**
+
 
 ---
 ### **Wireframes**
