@@ -111,10 +111,22 @@ The terms of use of this project will make it so that it won't just be copying t
 
 ---
 ### **Research Software Options**
-
+| Software | Plus | Minus | Implication |
+| :---- | :---- | :---- | :---- |
+| Figma | UI seems simple enough to learn and the software is also cloud based which means I can easily access it anywhere | You have to pay for a lot of features.  | I think that the positives outway the negatives, it’s not as if the entire software is locked behind a pay wall. Even if i do need a specific feature i should be able to find a workaround. |
+| Adobe XD | The main thing is that it is made by adobe, which means that if i was to use photoshop or any other branches of their company, it would be easy to integrate. | Apparently hard to learn according to the internet so that will probably slow development speed down | I don’t think I will be using this software as it’s harder to learn than figma and i don’t think i would be relying on the creative cloud stuff too much |
+| Google Sites | Completely free software made by google, and is very simple to use. This software is also cloud based allowing you to access it easily and efficiently from anywhere. | There are limited design options as well as limited customisation to how the site works. | Also don’t think I will be using this site as it doesn’t allow for heavy customisation and there is limited design options which is something that i would very much like |
 
 ---
 ### **Wireframes**
+**Main Page**
+![image](images/1.png "Main Page")
+
+**Map Page**
+![image](images/2.png "Main Page")
+
+**Character Page**
+![image](images/3.png "Main Page")
 
 ---
 ## <ins>**Testing and Evaluating**
