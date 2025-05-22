@@ -132,11 +132,55 @@ The terms of use of this project will make it so that it won't just be copying t
 ## <ins>**Testing and Evaluating**
 ### **User Testing & Feedback**
 
+
+
+
+
+
+
+
+
+
+
 ---
 ### **Ongoing Evaluations**
+**11/03/2025**
+- Added the Project Proposal after it's completion to this project documentation
 
+**14/03/2025**
+- Did a lot of theory and up to the non functional requirements. Also made a mindmap thing on what i want this project to be
+
+**18/03/2025**
+- Finished the requirements section and now need to do social, ethical and legal issues
+
+**21/03/2025**
+- Did most of the social, ethical and legal issues section, may need to expand on some stuff
+- Also completed a Gantt chart so i can manage my time better
+
+**25/03/2025**
+- Finished one of the pmi Tables (researching existing UI's) helping me get a better idea of what i want my website to look like
+
+**21/05/2025**
+(The gap above was because I was building the website and there wasn't anything to actually commit through Github)
+- I forgot to add the Research Software Options pmi Table, so i finished that off as well as adding my Wireframes that i based the designs off
 ---
-### **Final Evaluation**
+### **Sprint Evaluations**
+**Sprint 1**
+- In this sprint I created the main page while trying to figure out how to use Figma. I accomplished this by watching a great amount of tutorials through Youtube which taught how to create frames and buttons. Using this I built the prototype of the main page. 
+![images](images/Main%20Page%20proto%201.png)
+Using this a base to go of for the other pages. Things I could do better though is adding more things, such as more information and better aesthetics for the design.
 
+**Sprint 2**
+- Built the rest of the website based around the design of the main page and being similar to the wireframes that i created for the google forms before. The colour scheme and other aspects have changed thought to suit the theme that i want better. Finishing of the website with other pages such as a summary, character list, events, locations and a map. If there was somehting to improve about this final prototype it would be to add more detail to all the text such as character profiles. But as this book and series is not all that popular and has minimal amounts of images for things like characters. This limits how visually appealing I can make the site as images are a big thing in making it look better and not just a giant blob of text.
+### **Final Evaluation**
+The website has met most of the funcitonal and non funcitonal requirements as it does it's job of being a wiki for anyone that is interested in the book. Although I do wish that I was able to go more in depth on all the relevant things like side characters and locations. The use cases, expected behaviours, usability and performance all are satified and the website is usable.
+
+This website does meet my intentions outlines in my design brief as it is suitable for the target audience and prupose, but once again I wish I could've gone deeper into all the stuff, this would be possible with more time as i would probably have to read the whole book at least twice. 
+
+The wiki doesn't copy anything of the text directly form the book and the summary and location profiles are all written personally, respecting the intellectual property of the author and publisher. The website also gives credit to Christopher Paolini on the main page. 
+
+I managed my time decently well but with other assessment tasks and homework I couldn't put as much time as I wanted into this task to make to the best of my abilities. If I had problems or anything I would go online to find solutions that would aid me in overcoming these problems and finding a working method. 
+
+Overall I am still happy with what I achieved in this assessment task even though I didn't have enought time to do everythign that I wanted to.
 ---
 ---
